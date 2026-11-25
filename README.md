@@ -1,2 +1,2 @@
-# Meu-primeiro-projeto
-Meus primeiros projetos de programação.
+# Meu primeiro projeto
+Estou começando em programação e vou guardar aqui meus projetos.
